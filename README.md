@@ -8,7 +8,7 @@ Whether you're a beginner, student, or tech enthusiast, this tool helps you **un
 
 ## 🌐 Live Demo
 
-👉 https://concept-clarity-riddhi23133s-projects.vercel.app/
+👉 https://concept-clarity-three.vercel.app/
 
 ---
 
